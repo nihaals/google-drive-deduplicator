@@ -1,1 +1,1 @@
-# google-drive-deduplicator
+# Google Drive Deduplicator

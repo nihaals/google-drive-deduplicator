@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "experimentalDecorators": true
+  },
+  "include": ["src/*.ts"]
+}

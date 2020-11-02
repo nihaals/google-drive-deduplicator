@@ -1,0 +1,26 @@
+{
+  "name": "google-drive-deduplicator",
+  "version": "1.0.0",
+  "description": "Deduplicates files on Google Drive",
+  "dependencies": {},
+  "devDependencies": {
+    "ts2gas": ">=3.6.3",
+    "@types/google-apps-script": "^1.0.17",
+    "@google/clasp": "^2.3.0"
+  },
+  "scripts": {
+    "push": "clasp push",
+    "watch": "clasp push --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihaals/google-drive-deduplicator.git"
+  },
+  "keywords": [],
+  "author": "Nihaal Sangha <me@niha.al>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nihaals/google-drive-deduplicator/issues"
+  },
+  "homepage": "https://github.com/nihaals/google-drive-deduplicator#readme"
+}
