@@ -4,9 +4,9 @@
   "description": "Deduplicates files on Google Drive",
   "dependencies": {},
   "devDependencies": {
-    "ts2gas": ">=3.6.3",
-    "@types/google-apps-script": "^1.0.17",
-    "@google/clasp": "^2.3.0"
+    "ts2gas": "^4.2.0",
+    "@types/google-apps-script": "^1.0.45",
+    "@google/clasp": "^2.4.1"
   },
   "scripts": {
     "push": "clasp push",
